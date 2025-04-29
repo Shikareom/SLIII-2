@@ -1,0 +1,4 @@
+Apache Spark is a fast and general-purpose cluster computing system.
+It provides high-level APIs in Scala, Java, Python, and R.
+Spark is designed to cover a wide range of workloads such as batch applications,
+iterative algorithms, interactive queries, and streaming.
